@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomchas&label=Profile%20views&color=0e75b6&style=flat" alt="lomchas" /> </p>
 
-- 🌱 I’m currently learning **Sass, Phyton**
+- 🌱 I’m currently learning **Sass, Phyton and NextJS**
 
 - 💬 Ask me about **React, JavaScript**
 
